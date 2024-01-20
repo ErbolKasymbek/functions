@@ -5,6 +5,6 @@ function getSquare(a, b) {
 getSquare(5, 10);
 
 function hello(g) {
-  console.log(g)
+  console.log(g);
 }
-hello("World")
+hello("World");
