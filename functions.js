@@ -3,3 +3,8 @@ function getSquare(a, b) {
   return console.log(a * b);
 }
 getSquare(5, 10);
+
+function hello(g) {
+  console.log(g)
+}
+hello("World")
