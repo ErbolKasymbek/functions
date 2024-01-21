@@ -8,3 +8,9 @@ function hello(g) {
   console.log(g);
 }
 hello("World");
+
+function showMessage(show) {
+  return show
+}
+let result = showMessage("New message")
+console.log(result);
